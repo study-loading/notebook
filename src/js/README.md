@@ -4,15 +4,17 @@ javascript提供的就是内置对象给程序调用，而javascript的内置对
 
 基础数据类型
 > * String
-* Number
-* undefined
-* null
-* Boolean
-* Symbol(es6)
+> * Number
+> * undefined
+> * null
+> * Boolean
+> * Symbol(es6)
 
 引用数据类型
 > * array
-* object
+> * object
+
+function不属于以上类型
 
 基础数据类型与引用数据类型的区别在types.md里具体描述
 
